@@ -1,20 +1,88 @@
-h1.fr{color:black
-};
-
-      .complemento{
-      font-family: cursive;
-      font: size 70px;
-      
+h1.fr{
+    background-color: rgb(0, 0, 0);
+    font-size: 45px;
+    color:rgb(151, 52, 113)
+    }
+    .complemento{
+      font-family: Geneva;
+      font: size 70px;  
   }
-
    .princesas{
-       font-family:Geneva;
-       font-size: 25px;
+       background-color: bisque;
+       font-family:cursive;
+       font-size: 29px;
    }
    .Rapunzel{
-       width: 555px;
+       width: 600px;
    }
-   .rapunzel{
-       width: 399px;   
+   .princess{
+       width: 606px;
    }
-   
+   .mei{
+       font-family:cursive
+   }
+   .AN{
+       background-color: bisque;
+       font-size:29px;
+       font-family: cursive;
+   }
+   .AND{
+    width: 550px;
+   }
+.NOE{
+    font-family: cursive;
+}
+.ANG{
+    background-color: bisque;
+    font-size: 29px;
+    font-family: cursive;
+.DE{
+
+}
+}
+.EN{
+    width: 600px;
+}
+.gy{
+    width: 600px;
+}
+.a{
+    font-family: cursive;
+}
+.W{
+    background-color: bisque;
+    font-size: 29px;
+    font-family: cursive;
+}
+.ariel{
+    width:600px;
+}
+.eric{
+    width: 646px;
+}
+.x{
+    font-family:cursive;
+}
+.mo{
+    background-color: bisque;
+    font-size: 29px;
+    font-family: cursive;
+}
+.MOANA{
+    width: 600px;
+}
+.moana{
+    width: 703px;
+}
+.maui{
+    font-family:cursive;
+}
+.poca{
+    background-color: bisque;
+    font-size: 29px;
+    font-family: cursive;
+}
+
+.loca{
+    width: 750px;
+}
