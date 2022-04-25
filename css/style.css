@@ -1,7 +1,7 @@
 h1.fr{
-    background-color: rgb(10, 10, 10);
-    font-size: 45px;
-    color:rgb(175, 64, 133)
+    background-color: black;
+    font-family: cursive;
+    color: blueviolet;
     }
     .complemento{
       font-family: Geneva;
@@ -70,8 +70,9 @@ h1.fr{
     width: 600px;
 }
 .mooana{
-    width: 60px;
+    width: 600px;
 }
+]
 .maui{
     font-family:cursive;
 }
