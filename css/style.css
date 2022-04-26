@@ -1,5 +1,5 @@
 h1.fr{
-    background-color: black;
+    background-color:bisque;
     font-family: cursive;
     color: blueviolet;
     }
@@ -77,14 +77,15 @@ h1.fr{
     font-family:cursive;
 }
 .poca{
-    background-color: bisque;
-    font-size: 29px;
-    font-family: cursive;
+  background-color: bisque;
+  font-size: 29px;
+  font-family: sans-serif;
 }
 
 .loca{
     width: 750px;
 }
 .Q{
-    font-family: cursive;
+    font-family: Cambria;
+}
 }
