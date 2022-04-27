@@ -116,3 +116,17 @@ h1.fr{
    .Q{
        font-family: Georgia;
    }
+   .fq{
+       background-color: bisque;
+       color: rgb(221, 27, 156);
+       font-family: cursive;
+       font-size: 31px;
+   }
+   .fw{
+       font-family: cursive;
+       font-size: 23px;
+   }
+   .ft{
+       width: 660px;
+   }
+   
